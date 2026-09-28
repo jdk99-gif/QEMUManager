@@ -12,6 +12,10 @@ This is still a work in progress. See [How to support](#how-to-support) to suppo
   
 ---
   
+# GUI v2 - FORK
+  Bug Fix Update TO v1 and also first update of the fork
+
+
 ## GUI v1
 
 This is finally the first version of the project. Most of the initial ideas are in this release
