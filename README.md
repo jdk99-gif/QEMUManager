@@ -13,7 +13,7 @@ This is still a work in progress. See [How to support](#how-to-support) to suppo
 ---
   
 # GUI v2 - FORK
-  Bug Fix Update TO v1 and also first update of the fork
+  Bug Fix Update TO v1 and also first update of the fork --- INFO update is not in the sorce code , Please Download The Relase
 
 
 ## GUI v1
